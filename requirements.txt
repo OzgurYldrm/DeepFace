@@ -1,6 +1,6 @@
-opencv-python
-numpy
-deepface
-pandas
-tf-keras
-openpyxl
+opencv-python==4.9.0.80
+numpy==1.26.4
+deepface==0.0.89
+pandas==2.2.2
+tf_keras==2.16.0
+openpyxl==3.1.2
